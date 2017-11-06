@@ -1,0 +1,25 @@
+body{
+  background-color:#2D3047;
+}
+
+#time_wrapper{
+  background-color:#419D78;
+  color:#EFD0CA;
+  margin:50px;
+  font-size:20px;
+  text-align:center;
+  width: calc(100% - 90px);
+  height:880px;
+}
+
+#wrapper{
+  color:#fff;
+  font-size:100px;
+  font-weight:bold;
+  margin-top:500px;
+}
+
+#timer{
+  color:#EFD0CA;
+  font-size:400px;
+}
